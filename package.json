@@ -1,5 +1,13 @@
 {
   "name": "sample_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "version": "1.0.0",
+  "description": "noting",
+  "main": "index.js",
+  "repository": "https://github.com/Orangee1247/StaticPage.git",
+  "author": "Orangee1247 <phoducdat@gmail.com>",
+  "license": "MIT"
 }
